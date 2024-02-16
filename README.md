@@ -8,7 +8,8 @@
 `git config user.name`
 `git config user.email`
 
+//updated to github
 `git add .`
-`git commit -m`  
-`git commit`
-`git push`
+`git commit -m "message"`
+
+`git push origin main`
