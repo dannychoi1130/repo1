@@ -14,3 +14,5 @@
 
 `git push origin main`
 1
+
+git push --force
